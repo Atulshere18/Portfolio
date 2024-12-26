@@ -37,4 +37,4 @@ Here are some of the notable projects I have worked on:
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/atulmanoj/)
 
 
-##Link - https://atulshere18.github.io/Portfolio/
+## Link - https://atulshere18.github.io/Portfolio/
